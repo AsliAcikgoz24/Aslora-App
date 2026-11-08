@@ -1,5 +1,5 @@
 # Wolff’s Naturkosmetik – SPEC.md
-Stand nach Meeting 1
+Stand: nach Meeting 1
 
 ## Entitäten
 - Kunde: Kundennummer, Name, Kontakt, Lieferadresse, Kundentyp
